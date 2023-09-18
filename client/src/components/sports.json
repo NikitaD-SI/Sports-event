@@ -1,0 +1,262 @@
+[
+    {
+        "sport": "Cricket",
+        "Equipname": [
+            {
+                "item": "Cricket Ball",
+                "quantity": 0
+            },
+            {
+                "item": "Cricket Bat",
+                "quantity": 0
+            },
+            {
+                "item": "Cricket Gloves",
+                "quantity": 0
+            },
+            {
+                "item": "Cricket Helmet",
+                "quantity": 0
+            },
+            {
+                "item": "Cricket Pads",
+                "quantity": 0
+            },
+            {
+                "item": "Cricket Stumps",
+                "quantity": 0
+            },
+            {
+                "item": "Cricket Wicketkeeping Gloves",
+                "quantity": 0
+            },
+            {
+                "item": "Cricket Wicketkeeping Pads",
+                "quantity": 0
+            },
+            {
+                "item": "Cricket Thigh Guard",
+                "quantity": 0
+            },
+            {
+                "item": "Cricket Abdominal Guard",
+                "quantity": 0
+            }
+        ]
+    },
+    {
+        "sport": "Badminton",
+        "Equipname": [
+            {
+                "item": "Badminton Racket",
+                "quantity": 0
+            },
+            {
+                "item": "Badminton Shuttlecock",
+                "quantity": 0
+            },
+            {
+                "item": "Badminton Shoes",
+                "quantity": 0
+            },
+            {
+                "item": "Badminton Grip",
+                "quantity": 0
+            },
+            {
+                "item": "Badminton Bag",
+                "quantity": 0
+            },
+            {
+                "item": "Badminton Net",
+                "quantity": 0
+            },
+            {
+                "item": "Badminton Court",
+                "quantity": 0
+            }
+        ]
+    },
+    {
+        "sport": "Hockey",
+        "Equipname": [
+            {
+                "item": "Hockey Stick",
+                "quantity": 0
+            },
+            {
+                "item": "Hockey Ball",
+                "quantity": 0
+            },
+            {
+                "item": "Hockey Gloves",
+                "quantity": 0
+            },
+            {
+                "item": "Hockey Shin Guards",
+                "quantity": 0
+            },
+            {
+                "item": "Hockey Helmet",
+                "quantity": 0
+            },
+            {
+                "item": "Hockey Skates",
+                "quantity": 0
+            },
+            {
+                "item": "Hockey Goalie Equipname",
+                "quantity": 0
+            },
+            {
+                "item": "Hockey Jersey",
+                "quantity": 0
+            },
+            {
+                "item": "Hockey Shorts",
+                "quantity": 0
+            },
+            {
+                "item": "Hockey Socks",
+                "quantity": 0
+            }
+        ]
+    },
+    {
+        "sport": "Table-Tennis",
+        "Equipname": [
+            {
+                "item": "Table Tennis Racket",
+                "quantity": 0
+            },
+            {
+                "item": "Table Tennis Ball",
+                "quantity": 0
+            },
+            {
+                "item": "Table Tennis Table",
+                "quantity": 0
+            },
+            {
+                "item": "Table Tennis Net",
+                "quantity": 0
+            },
+            {
+                "item": "Table Tennis Shoes",
+                "quantity": 0
+            },
+            {
+                "item": "Table Tennis Clothing",
+                "quantity": 0
+            }
+        ]
+    },
+    {
+        "sport": "Lawn-Tennis",
+        "Equipname": [
+            {
+                "item": "Tennis Racket",
+                "quantity": 0
+            },
+            {
+                "item": "Tennis Balls",
+                "quantity": 0
+            },
+            {
+                "item": "Tennis Shoes",
+                "quantity": 0
+            },
+            {
+                "item": "Tennis Grip",
+                "quantity": 0
+            },
+            {
+                "item": "Tennis Court",
+                "quantity": 0
+            },
+            {
+                "item": "Tennis Net",
+                "quantity": 0
+            },
+            {
+                "item": "Tennis Clothing",
+                "quantity": 0
+            }
+        ]
+    },
+    {
+        "sport": "Carrom",
+        "Equipname": [
+            {
+                "item": "Carrom Board",
+                "quantity": 0
+            },
+            {
+                "item": "Carrom Coins",
+                "quantity": 0
+            },
+            {
+                "item": "Striker",
+                "quantity": 0
+            },
+            {
+                "item": "Carrom Powder",
+                "quantity": 0
+            }
+        ]
+    },
+    {
+        "sport": "Chess",
+        "Equipname": [
+            {
+                "item": "Chess Board",
+                "quantity": 0
+            },
+            {
+                "item": "Chess Pieces",
+                "quantity": 0
+            },
+            {
+                "item": "Chess Clock",
+                "quantity": 0
+            }
+        ]
+    },
+    {
+        "sport": "Boxing",
+        "Equipname": [
+            {
+                "item": "Boxing Gloves",
+                "quantity": 0
+            },
+            {
+                "item": "Boxing Shorts",
+                "quantity": 0
+            },
+            {
+                "item": "Boxing Shoes",
+                "quantity": 0
+            },
+            {
+                "item": "Boxing Headgear",
+                "quantity": 0
+            },
+            {
+                "item": "Mouthguard",
+                "quantity": 0
+            },
+            {
+                "item": "Hand Wraps",
+                "quantity": 0
+            },
+            {
+                "item": "Punching Bag",
+                "quantity": 0
+            },
+            {
+                "item": "Boxing Ring",
+                "quantity": 0
+            }
+        ]
+    }
+]

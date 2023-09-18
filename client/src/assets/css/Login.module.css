@@ -1,0 +1,12 @@
+.container {
+  padding: 2rem;
+  width: 430px;
+  background: #fff;
+  border-radius: 7px;
+  box-shadow: 0 5px 10px rgba(0,0,0,0.3);
+}
+
+.link:hover {
+  text-decoration: underline;
+}
+
